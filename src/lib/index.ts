@@ -1,1 +1,2 @@
-// Reexport your entry components here
+import { Manuscript } from "./manuscripts";
+export { Manuscript }
